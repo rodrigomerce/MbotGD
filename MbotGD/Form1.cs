@@ -53,7 +53,7 @@ using System.Diagnostics;
 namespace WindowsFormsApp1
 {
 
-	public partial class Form1 : Form
+	public partial class menu : Form
 	{
 		private OleDbConnection _olecon;
 		private OleDbCommand _oleCmd;
@@ -67,7 +67,7 @@ namespace WindowsFormsApp1
 
 		//driver = new chromeDriver();
 
-		public Form1()
+		public menu()
 		{
 			InitializeComponent();
 		}

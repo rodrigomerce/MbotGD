@@ -23,6 +23,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - C#
+- Python
 - SQLServer
 
 ## 💻 Projeto

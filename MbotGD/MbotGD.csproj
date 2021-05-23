@@ -7,8 +7,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{79E991A2-2443-4A4C-A2D8-AFE0AD4F6D0A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WithBrainWithMoney</RootNamespace>
-    <AssemblyName>WithBrainWithMoney</AssemblyName>
+    <RootNamespace>MbotGD</RootNamespace>
+    <AssemblyName>MbotGD</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -208,6 +208,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

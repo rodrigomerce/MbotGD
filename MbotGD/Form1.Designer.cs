@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-	partial class Form1
+	partial class menu
 	{
 		/// <summary>
 		/// Variável de designer necessária.
@@ -578,7 +578,7 @@
 			this.label9.TabIndex = 0;
 			this.label9.Text = "CAMINHO EXECUTAVEL PYTHON";
 			// 
-			// Form1
+			// menu
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -587,7 +587,7 @@
 			this.Controls.Add(this.tabControl1);
 			this.Controls.Add(this.richTextBox1);
 			this.Controls.Add(this.statusStrip1);
-			this.Name = "Form1";
+			this.Name = "menu";
 			this.Text = "GanharNoInsta";
 			this.Activated += new System.EventHandler(this.Form1_Activated);
 			this.Load += new System.EventHandler(this.Form1_Load);
